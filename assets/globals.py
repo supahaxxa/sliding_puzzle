@@ -10,10 +10,10 @@ transform = lambda n: floor(255 * sin(n * pi / 180))
 window_width, window_height = 1080, 720
 
 display_screen = 0
-mode = 5					# need to save its state
+mode = 5
 moves = 0
-theme = 0					# need to save its state
-volume = 0					# need to save its state
+theme = 0
+volume = 0
 start = end = 0
 
 tile_gap = 20
