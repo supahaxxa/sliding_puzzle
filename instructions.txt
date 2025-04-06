@@ -1,0 +1,15 @@
+===============================GAMEPLAY===============================
+Starting in the top left corner, move the tiles in ascending order in
+the grid. The tile in the lower right corner should remain "empty". To
+move a tile you can use arrow keys or W A S D keys on your keyboard.
+
+Resetting the game restores the grid configuration to the state
+obtained after a new game.
+
+You can press 3, 4, 5, 6, or 7 key (not the ones in the NumPad) to
+select grids 3x3, 4x4, 5x5, 6x6, or, 7x7 consecutively.
+
+
+===============================SETTINGS===============================
+You can change volume and theme colors from the settings menu. Just
+click on the color palette to change the theme.
